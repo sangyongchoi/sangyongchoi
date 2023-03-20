@@ -8,6 +8,7 @@
     - [Add Criteria infix functions for maxDistance and minDistance](https://github.com/spring-projects/spring-data-mongodb/pull/3761)
     - [Add comment geojsonpoint](https://github.com/spring-projects/spring-data-mongodb/pull/3956)
     - [Remove duplication condition](https://github.com/spring-projects/spring-data-mongodb/pull/3981)
+    - [Implement let, pipeline in $lookup](https://github.com/spring-projects/spring-data-mongodb/pull/4272)
 
 - ksp
     - [Add else to when](https://github.com/google/ksp/pull/869)
