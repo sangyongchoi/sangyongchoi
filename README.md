@@ -20,6 +20,9 @@
 
 - grpc-kotlin
    - [bugfix: not working retry](https://github.com/grpc/grpc-kotlin/pull/335)
+ 
+- spring-cloud-stream
+    - [modify docs](https://github.com/spring-cloud/spring-cloud-stream/pull/2765)
 
 ## Inflearn 강의
 - [재고시스템으로 알아보는 동시성이슈 해결방법](https://inf.run/Mitm)
